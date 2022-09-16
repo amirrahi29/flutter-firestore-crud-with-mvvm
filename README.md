@@ -1,6 +1,9 @@
 # flutter_firestore_crud
 
-A new Flutter project.
+In this video you can learn how to create crud application using firebase firestore with mvvm architecture and getx statemanagement.
+
+
+![a](https://user-images.githubusercontent.com/107117774/190556098-0473dae4-8f6e-46e6-b5ce-5eecdbc175f9.png)
 
 ## Getting Started
 
