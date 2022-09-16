@@ -2,8 +2,7 @@
 
 In this video you can learn how to create crud application using firebase firestore with mvvm architecture and getx statemanagement.
 
-
-![a](https://user-images.githubusercontent.com/107117774/190556098-0473dae4-8f6e-46e6-b5ce-5eecdbc175f9.png)
+![thumbnail](https://user-images.githubusercontent.com/107117774/190556166-a395e013-2e25-4b57-b94f-af4c67105013.png)
 
 ## Getting Started
 
